@@ -41,6 +41,7 @@ Após as análises, a **Loja 4** foi recomendada para venda, com base em:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/jorge218230/ChallengeAluraStore.git
-🤝 Contato
+
+## 🤝 Contato
 Feito por Jorge Fernandes
 https://www.linkedin.com/in/jorgefernandesjr/
